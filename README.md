@@ -1,1 +1,4 @@
 # TEXT-RECOGNITION
+Handwritten digit recognition presents a significant challenge in computer vision and artificial intelligence, despite considerable advancements in the field. Current systems often struggle with accurately and efficiently recognizing handwritten text due to the variability in handwriting styles and the complexity involved in identifying different shapes and sizes of handwritten numbers. This variability necessitates the development of robust systems capable of accurately recognizing handwritten text across various contexts such as forms, documents, and digital notes.
+
+The objective of this project is to address the challenges of handwritten digit recognition by leveraging deep learning algorithms and image processing techniques. The goal is to develop an efficient and accurate system that provides a reliable solution for identifying handwritten digits, applicable to diverse real-world applications.
